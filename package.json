@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Remilio dynamic content generation platform with GitHub integration",
   "dependencies": {
     "@octokit/rest": "^22.0.0",
     "@railway/cli": "^4.5.3"
