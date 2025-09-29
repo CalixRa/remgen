@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+*.pyc
+__pycache__/
+.env
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Generated files
+generated_tweets/
+generated_longform/
+downloads/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Data files (keeping structure but not content)
+data/*.csv
+data/*.json
+data/*.txt
